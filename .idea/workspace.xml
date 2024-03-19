@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="896fa017-f092-4472-b962-00ab64fd354b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diagrama-de-classe-abstract-factory-patterns.mdj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Competencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Competencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/CompetenciaDevPleno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/CompetenciaDevPleno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/CompetenciaDevSenior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/CompetenciaDevSenior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioAbstrato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioAbstrato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioDevPleno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioDevPleno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioDevSenior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/FuncionarioDevSenior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Salario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/Salario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/SalarioDevPleno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/SalarioDevPleno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/SalarioDevSenior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/abstractfactory/SalarioDevSenior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FuncionarioTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FuncionarioTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="896fa017-f092-4472-b962-00ab64fd354b" name="Changes" comment="atualizar projeto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +55,21 @@
       <option name="presentableId" value="Default" />
       <updated>1710814077273</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualizar projeto">
+      <created>1710815333308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710815333308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="atualizar projeto">
+      <created>1710815460731</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710815460731</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizar projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizar projeto" />
   </component>
 </project>
