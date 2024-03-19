@@ -1,2 +1,6 @@
-package org.example.abstractfactory;public interface Salario {
+package org.example.abstractfactory;
+
+
+public interface Salario {
+    String emitir();
 }
